@@ -1,0 +1,5 @@
+flask
+inference
+supervision
+opencv-python-headless
+werkzeug
